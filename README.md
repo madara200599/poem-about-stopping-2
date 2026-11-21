@@ -14,7 +14,7 @@ Run it with:
 python3 main.py
 ```
 
-It writes the poem to `/output/entry.txt` (269 characters, deterministic —
+It writes the poem to `/output/entry.txt` (275 characters, deterministic —
 the same fixed text on every run, no network, no randomness).
 
 [![make.fun](https://make.fun/badge/the-poem-about-stopping-20261121-1927.svg)](https://make.fun/bounty/the-poem-about-stopping-20261121-1927)

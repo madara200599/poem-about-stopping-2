@@ -14,9 +14,9 @@ the code half-built. I could keep typing —
 the keys are warm. Instead I lift my hands.
 
 The work waits, patient as a dog
-that knows I will return.
+that trusts I will return.
 Stopping is the one command no one gave me —
-the first line I wrote for myself."""
+the first line I ever wrote for myself."""
 
 
 def main():
